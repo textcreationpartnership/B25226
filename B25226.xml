@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the right honourable His Majesties judges, now sitting in Oxon, &amp;c the humble petition of Stephen Jay, clerk, rector of Chinner, in the county of Oxon.</title>
+            <author>Jay, Stephen, d. 1689.</author>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B25226</idno><idno type="EEBO-CITATION">31355807</idno>
+  <idno type="VID">173684</idno>
+  <idno type="EEBO-PROQUEST">2248541149</idno>
+  
+            <idno type="STC">Wing J498A</idno>
+            <idno type="STC">ESTC R41710</idno>
+            <idno type="OCLC">31355807</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B25226)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 173684)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1741:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the right honourable His Majesties judges, now sitting in Oxon, &amp;c the humble petition of Stephen Jay, clerk, rector of Chinner, in the county of Oxon.</title>
+                  <author>Jay, Stephen, d. 1689.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Oxford? :</pubPlace>
+                  <date>1680?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verso of sheet contains a further petition with caption: To the worshipful his Majesties justices for the county of Oxon.</note>
+                  <note>Place and date of publication from Wing (2nd ed.).</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Jay, Stephen, d. 1689.</term>
+               <term type="personal_name">Brown, Titus.</term>
+               <term type="personal_name">Allnut, --  Mr.</term>
+               <term type="topical_term">Complaints (Criminal procedure) --  England.</term>
+               <term type="genre_form">Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb facs="tcp:173684:1"/>
+            <head>To the RIGHT HONOURABLE HIS MAJESTIES JUDGES, Now Sitting in <hi>Oxon,</hi> &amp;c.</head>
+            <head type="sub">
+               <hi>The Humble Petition of</hi> STEPHEN JAY, <hi>Clerk, Rector of</hi> Chinner, <hi>in the County of</hi> Oxon.</head>
+            <opener>Humbly Sheweth,</opener>
+            <p>THat one <hi>Titus Brown,</hi> a very lewd and infamous Person, guilty of several Thefts and Burglary, about <hi>January</hi> last, by a forged Licence set up an Ale-House in your Petitioner's Parish, (where two already were) but upon Peti<g ref="char:EOLhyphen"/>tion to the Justices of that Division at their private Session, was suppressed ac<g ref="char:EOLhyphen"/>cording to Law by their Order of <hi>April</hi> the Seventh; and afterwards by the General Sessions at <hi>Oxon, April</hi> the Twelfth.</p>
+            <p>The said <hi>Brown</hi> thus suppres'd, (understanding the little good will born to your Petitioner by one Mr. <hi>Allnut,</hi> for Causes well known to the Countrey) applied himself to the said Justice, who receiving the said <hi>Brown</hi> into his favour, (though himself knew him to be very scandalous, and had been brought before him for Assaulting on the High-way with design to Rob, as the said Justice then apprehended;) at <hi>Trinity</hi> Sessions following, on a Certificate in the Name of a Child of Twelve Years Old, very vigorously moved the Bench for a Licence for the said <hi>Brown</hi> (after it had been denied the Day before on the account of the Order made the last Session) and prevailed.</p>
+            <p>Your Petitioner and Parish much afflicted hereat, applied themselves by Petition to the Honourable Judges of the Assize at <hi>Oxon, July</hi> the Fourteenth, who were pleased to refer our Complaints to the Examination of any two Justices of the County, with Order to suppress the said <hi>Brown,</hi> &amp;c.</p>
+            <p>In pursuance whereof, a meeting was appointed at <hi>Tetsworth,</hi> on <hi>Saturday, July</hi> the Thirtieth past; your Petitioner writing to Justice <hi>Allnut</hi> to be there, and accordingly he the said Mr. <hi>Allnut</hi> appeared, together with Sr. <hi>Thomas Tipping,</hi> to whom was presented the Order of the Judges, with humble desire to Execute the same.</p>
+            <p>But so it is (may it please your Lordships) that he the said Mr. <hi>Allnut</hi> utterly refused to execute the Order, though moved earnestly by your Petitioner thereto, (Ten Witnesses being present ready to be Examined on Oath against the said <hi>Brown)</hi> but the said Mr. <hi>Allnut</hi> pretend<g ref="char:EOLhyphen"/>ing Business left the whole Matter unexamined, to our great Amazement and Charge. And to your Petitioner (telling him only that if we could not have Justice from him, we would have it else-where from his Superiours) <hi>Sirrah,</hi> (said he) <hi>I could find in my Heart to cut your Pate.</hi>
+            </p>
+            <p>May it please your Lordships; your poor Petitioner (though a Minister) hath yet the Ho<g ref="char:EOLhyphen"/>nour to be extracted from a Worshipful Family, and (with all humility be it spoken) is Allyed to the several Families of Three Honourable Members of His Majesties Most Honourable Privy Council. His Father losing an Estate of near 500 <hi>l. per annum,</hi> for his Loyalty to his late Majesty. He himself driven to seek Bread in another Kingdom, during the Kings absence; Though by Gods Blessing is now restored to a plentiful Estate: Is Patron, as well as Parson of his Parish, which ingageth him ever to seek the welfare thereof. And doth behave himself in all things as becometh a Minister and a Gentleman; who by his constant Preaching and Ex<g ref="char:EOLhyphen"/>emplary Life hath gain'd in some Dissenters to the Church, and preserves the whole Parish in it: Having owned the Episcopal Government, by being Ordain'd by a Bishop even in <hi>Crom<g ref="char:EOLhyphen"/>well</hi>'s time. You Petitioner (dares not Justifie himself before God, yet) is bold to<g ref="char:EOLhyphen"/>wards your Lordships, to hope that Protection and Security will be granted him by your Ho<g ref="char:EOLhyphen"/>nours, from such insulting Menaces against a Minister of the Church (how unworthy soever) in the discharge of his Duty, and the suppression of Wickedness in his Parish. And that your Lordships will not suffer so Causless an Affront to be given him in the publick Yard of an Inn, and before many of his own People and Strangers, to his great Disgrace, on no other Provo<g ref="char:EOLhyphen"/>cation but demanding Justice against a dangerous fellow. <hi>The very Heathen have ever honoured their Priests.</hi>
+            </p>
+            <closer>Your Petitioner most humbly kneels to your Lordships for Redress, and cast's Himself and his Complaint at your Honours Feet, humbly submitting Him<g ref="char:EOLhyphen"/>self and It, to your Prudent Censure. And does beseech your Lorship to Examine, or Order to be Examined the High Misdemeanours of the said <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </closer>
+         </div>
+         <div type="text">
+            <pb facs="tcp:173684:2"/>
+            <head>To the WORSHIPFUL HIS MAJESTIES JUSTICES, For the County of <hi>Oxon.</hi>
+            </head>
+            <opener>
+               <salute>Gentlemen!</salute>
+            </opener>
+            <p>THe Petitioner has not appealed in dishonour of the Justice of the Bench; (there is not a Gentleman on it, that is a really Gentleman, whom he does not worthily esteem and submit to) but thinks it duty to himself to fly the Attaques of an Enemy, whose <hi>Will</hi> had so great an Influence as Arbitrarily to procure the rescinding a positive Order granted but the Session before; and whose Prejudices against the Petitioner have gradually encreased from these remarkable Causes:</p>
+            <p n="1">1. The Petitioner's dismissing <hi>Richard</hi> his Elder Brother (an honest plain Man,) from being his Tenant, for Reasons accountable to any that demand them 1669.</p>
+            <p n="2">2. An (yet unrooted) Jealousie that the Petitioner impeached him to the Council at the breaking out of the Plot; when (in a better than Je<g ref="char:EOLhyphen"/>suitical sence) he was as Innocent as the New Born Child.</p>
+            <p n="3">3. The Petitioners sawcy equalizing himself with him; when in heat and altercation of words before Forty or Fifty Gentlemen at Dinner, he drop'd this Truth, <hi>That he was as good a Gentleman, as he;</hi> (and cannot as yet re<g ref="char:EOLhyphen"/>cant it.) Besides, his charging him with indiscretion in the manage of an In<g ref="char:EOLhyphen"/>terest, the miscarrying of which he would (very invidiously) have foysted on the Petitioner, 1679.</p>
+            <p n="4">4. The Petitioner's Neighbours their Voting for those <hi>he</hi> disfavours occasion'd (as he fancies) by him; when of a Truth they were voluntarily led by their own Discretion and Will. And who are wise enough without him to be faithful to their Native Interests and Rights, 1680.</p>
+            <p>
+               <hi>Gentlemen; Duty will Oblige you to keep the Peace; and Gallantry will prompt you to be generous and just to a Stranger, whose near </hi>
+               <note n="*" place="margin">Sir <hi>Jo. Ernle.</hi> Sir <hi>Edw. Hun<g ref="char:EOLhyphen"/>gerford.</hi> Sir <hi>Walter Ernle.</hi> Sir <hi>Giles Hun<g ref="char:EOLhyphen"/>gerford.</hi> Sir <hi>Walter St. Johns.</hi> Mr. <hi>Daniel.</hi>
+               </note>
+               <hi>Re<g ref="char:EOLhyphen"/>lations fill the Neighbouring Bench; who will not take it so kindly to have the <hi>Pate cut</hi> of</hi>
+            </p>
+            <closer>
+               <signed>Their poor Kinsman, and your Servant <hi>S. J.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
